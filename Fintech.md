@@ -1,1 +1,1 @@
-##Fintech reading recommendations
+# Fintech reading recommendations
