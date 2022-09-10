@@ -1,1 +1,1 @@
-
+# VC reading reccomandations
